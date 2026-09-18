@@ -62,6 +62,6 @@ Une plateforme de gestion de maintenance industrielle propulsée pour la **CPG (
 
 ## 📫 Contact
 
-🌐 Portefeuille · 💼 LinkedIn: https://www.linkedin.com/in/malak-messaoui/ · 📧 Email: Malak.Messaoui@esprit.tn
+🌐 Portefeuille: https://malak-messaoui.github.io/port-folio/ · 💼 LinkedIn: https://www.linkedin.com/in/malak-messaoui/ · 📧 Email: Malak.Messaoui@esprit.tn
 
 ⭐ Merci de votre visite !
